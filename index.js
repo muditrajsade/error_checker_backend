@@ -77,9 +77,7 @@ Please provide the following in a clear, structured format:
 1.  **Explanation:** A concise explanation of what this error means in the context of my code.
 2.  **Suggested Fix(es):** One or more specific suggestions on how to fix the error. If possible, show the corrected code snippet(s) using markdown code blocks.
 3.  **Relevant Web Links:** Three relevant web links (e.g., official documentation, Stack Overflow posts, helpful articles) that could help me understand and resolve this issue. Please provide the full URLs, each on a new line, and prefix each link with "LINK: ".
-    Example:
-    LINK: https://example.com/doc1
-    LINK: https://stackoverflow.com/q/12345
+
 `;
 
 
